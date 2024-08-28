@@ -7,5 +7,12 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  ".well-known": [
+    {
+      "id": "assetlinks.json",
+      "title": "hello"
+    }
+  ]
+
 }
